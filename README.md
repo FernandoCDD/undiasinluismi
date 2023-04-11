@@ -8,4 +8,5 @@ Los comandos que he ido utilizando son:
 - git push.
 - touch privado.txt
 - mkdir privado
-- touch .gitigonore
+- creo en vscode un archivo .gitignore y agrego privado.txt y privado/
+- 
